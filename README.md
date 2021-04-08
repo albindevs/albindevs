@@ -1,6 +1,6 @@
 hello, Albin here. I'm a 
-## Software Developer
-#### Passionate about:
+# Software Developer
+### Passionate about:
 🖋️ Writing
 
 🎨 illustrating
